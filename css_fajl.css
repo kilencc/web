@@ -1,0 +1,56 @@
+*{
+color:midnightblue;
+
+}
+span{
+font-size: 20px;
+font-weight: bold;
+
+}
+
+
+
+}
+p{
+    font-family: 'Arial',sans-serif,serif,cursive;
+font-style: italic;
+}
+
+
+
+
+body{
+    background-image: url('https://ocdn.eu/pulscms-transforms/1/-ecktkqTURBXy9kNjkyY2YyNjAxMDUyOGE0NzRjYTU3YTk2ZTdlMWQ3OC5qcGVnkpUDACbNBADNAkCVAs0DUgDCww');
+}
+div{
+    background-color: khaki;
+}
+section{
+    color:darkred
+}
+table td{
+    border: solid 1pt;
+    border-collapse: collapse;
+  
+}
+table{
+    width: 70%;
+   text-align: right;
+}
+td>p{
+font-style: italic;
+
+}
+header>p{
+    font-style: italic; 
+}
+
+.fontos{
+
+    color:red;
+    background-color: yellow;
+}
+#szines{
+
+    background-color: white;
+}
